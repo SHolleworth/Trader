@@ -1,0 +1,11 @@
+#Name
+#SpriteName
+#BuyPrice
+#SellPrice
+#Weight
+#Quantity
+Uranium,uranium,800,400,300,10
+Fish,fish,120,60,230,20
+Salt,salt,300,150,425,14
+Alcohol,alcohol,370,185,425,200
+Silicon,silicon,900,450,100,34

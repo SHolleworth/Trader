@@ -1,0 +1,256 @@
+fileFormatVersion: 2
+guid: 08dae389cb9a482489a22def607678d3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4136535021283924140
+    second: Ship Fuel Sprite Sheet_0
+  - first:
+      213: 6433190059164667128
+    second: Ship Fuel Sprite Sheet_1
+  - first:
+      213: 3549162036532918067
+    second: Ship Fuel Sprite Sheet_2
+  - first:
+      213: 8466809229482589781
+    second: Ship Fuel Sprite Sheet_3
+  - first:
+      213: -8753396946562029691
+    second: Ship Fuel Sprite Sheet_4
+  - first:
+      213: -2153008445649127069
+    second: Ship Fuel Sprite Sheet_5
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ship Fuel Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 101
+        width: 39
+        height: 15
+      alignment: 9
+      pivot: {x: 1.0009826, y: 0.27083078}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea1673b0c862ea42b75c44cebc1f3e9
+      internalID: -4136535021283924140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship Fuel Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 84
+        width: 39
+        height: 15
+      alignment: 9
+      pivot: {x: 1.0009016, y: 0.1359548}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b0b3eef0020b04b8b04030a3dc59ee
+      internalID: 6433190059164667128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship Fuel Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 66
+        width: 39
+        height: 15
+      alignment: 9
+      pivot: {x: 0.9994537, y: 0.06960907}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d513a80e97e982641bd4dc7b408a0367
+      internalID: 3549162036532918067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship Fuel Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 48
+        width: 39
+        height: 15
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210b005b14416ac48ae6e6ab9e035a9c
+      internalID: 8466809229482589781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship Fuel Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 28
+        width: 39
+        height: 16
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d094dacf333c6774b876fd8f5a1e86d2
+      internalID: -8753396946562029691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship Fuel Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 7
+        width: 39
+        height: 18
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3f1e232d677514191cc6454d0db597
+      internalID: -2153008445649127069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 07963ab02ebd6904d9c679d0917f2c83
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

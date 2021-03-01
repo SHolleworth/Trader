@@ -1,0 +1,376 @@
+fileFormatVersion: 2
+guid: cb50d181d93a56840af558e098eb2e9c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 133116670600266314
+    second: Gate Animation Sprites_0
+  - first:
+      213: 7839441429599409790
+    second: Gate Animation Sprites_1
+  - first:
+      213: -3962485663038612645
+    second: Gate Animation Sprites_2
+  - first:
+      213: -3322997061222631700
+    second: Gate Animation Sprites_3
+  - first:
+      213: -4822066879436220343
+    second: Gate Animation Sprites_4
+  - first:
+      213: -8957841288449999219
+    second: Gate Animation Sprites_5
+  - first:
+      213: -15123688884397343
+    second: Gate Animation Sprites_6
+  - first:
+      213: -6688689104008508611
+    second: Gate Animation Sprites_7
+  - first:
+      213: 2601905501795189511
+    second: Gate Animation Sprites_8
+  - first:
+      213: 5982328448752133407
+    second: Gate Animation Sprites_9
+  - first:
+      213: 6591231093479313449
+    second: Gate Animation Sprites_10
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gate Animation Sprites_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 100
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85255338ca634254b92230ddde791926
+      internalID: 133116670600266314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate Animation Sprites_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 100
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb757312405e17e459224b636b373bad
+      internalID: 7839441429599409790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate Animation Sprites_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 100
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66188ccbe12f8043964d703c24c61f2
+      internalID: -3962485663038612645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate Animation Sprites_3
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 100
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28005c0a90200b64b84a943a2662b12c
+      internalID: -3322997061222631700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate Animation Sprites_4
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 100
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d22027b4335891439146bd361beae1b
+      internalID: -4822066879436220343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate Animation Sprites_5
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 100
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171b9d334a401454eb4f3e5e86380ce0
+      internalID: -8957841288449999219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate Animation Sprites_6
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 100
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454b8778e75c71e4e81573fd7a78a049
+      internalID: -15123688884397343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate Animation Sprites_7
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 98
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270824e4f51469843b15343d66c5e32d
+      internalID: -6688689104008508611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate Animation Sprites_8
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 101
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4ae73055c47e84784e7e96a8ede991
+      internalID: 2601905501795189511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate Animation Sprites_9
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 101
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c9dbd0c316cb84498afa87c4d16660
+      internalID: 5982328448752133407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate Animation Sprites_10
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 75
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fafcb7761d845bb4f88b7a3639513f46
+      internalID: 6591231093479313449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: cefd6a9fe1fc0054db61e4289bb70be6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

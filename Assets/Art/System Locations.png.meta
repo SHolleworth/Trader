@@ -1,0 +1,688 @@
+fileFormatVersion: 2
+guid: 523223399da50804d8e0279885409144
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -255114443754022271
+    second: Red
+  - first:
+      213: 7005057598555392218
+    second: Green
+  - first:
+      213: -6027012246563486367
+    second: Pink
+  - first:
+      213: 4789647366768343704
+    second: Big Blue
+  - first:
+      213: -5509851274757287841
+    second: Red Dwarf
+  - first:
+      213: -1588644666513724493
+    second: Yellow Sun
+  - first:
+      213: -2198534743842671985
+    second: Big Brown
+  - first:
+      213: -1869364231629417878
+    second: Orange Sun
+  - first:
+      213: -8675363499026889090
+    second: Ship On
+  - first:
+      213: -3985627185430101548
+    second: Ship Off
+  - first:
+      213: -2044530472979961136
+    second: White
+  - first:
+      213: -96416964409030200
+    second: Teal
+  - first:
+      213: 3688107188046153898
+    second: Hot
+  - first:
+      213: 8451461824318546797
+    second: Gate
+  - first:
+      213: -231135017335786878
+    second: Small Green
+  - first:
+      213: 6158405734690177312
+    second: Target Ring
+  - first:
+      213: -7961338083738559242
+    second: Trio
+  - first:
+      213: -6047970807335884002
+    second: Small Brown
+  - first:
+      213: 5093542939848177992
+    second: Small Pink
+  - first:
+      213: -6078978784889536680
+    second: Small Weird
+  - first:
+      213: -3437554282606117756
+    second: Brown
+  - first:
+      213: 1419298323624767657
+    second: City
+  - first:
+      213: -3989848791084101230
+    second: Yellow
+  - first:
+      213: -2676436399004780039
+    second: Fuel Station
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Red
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 151
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d6c1ef71f4e0d46b1b86310b9d8731
+      internalID: -255114443754022271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 151
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 469293a7f1ed1fe409a9bb71d9b6c46d
+      internalID: 7005057598555392218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 150
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3cdc4d02c7c8e448b10a19090d2bf0e
+      internalID: -6027012246563486367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Blue
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 122
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b2264a29ddbc6c48b7fe1fa9db07b89
+      internalID: 4789647366768343704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Dwarf
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 116
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7816c00f1fdca274aa797469a7b32076
+      internalID: -5509851274757287841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Sun
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 120
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20cfce79cf7574043b5f4248a15adb32
+      internalID: -1588644666513724493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Brown
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 112
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfff049add190124f9e92de6f355d1a0
+      internalID: -2198534743842671985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Sun
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 51
+        width: 65
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac573810b9503c04785c81182d788410
+      internalID: -1869364231629417878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship On
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 106
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9473e14943edb4045b6b9b77a07a6a4e
+      internalID: -8675363499026889090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship Off
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 107
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33643a8ed1a5cec4a8569e5abbdd42a0
+      internalID: -3985627185430101548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 82
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2333dfad5ba16438878cefb0b153fc
+      internalID: -2044530472979961136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teal
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 85
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f63c873b1a9b8458e6c6fd1528d742
+      internalID: -96416964409030200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hot
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 90
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1fc79c820cb7d46b17b084bff3ecc1
+      internalID: 3688107188046153898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 45
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6930f6e00574f4e91d435887368caa
+      internalID: 8451461824318546797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Green
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 76
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8ee09efb6d1ac4abc8d9eb9e5a1aa9
+      internalID: -231135017335786878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Target Ring
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 2
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2475c2bdb1270c04a800b0ac5938be30
+      internalID: 6158405734690177312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trio
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 56
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f44aea9dbbba64b82c0d8f1585adb8
+      internalID: -7961338083738559242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Brown
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 56
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950cb2bcd053a814fa21cbdb136c6701
+      internalID: -6047970807335884002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Pink
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 64
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6832d78f42033444a7aad0d3933472f
+      internalID: 5093542939848177992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Weird
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 50
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 442c460ac1bd7054ea829c5adf59dc80
+      internalID: -6078978784889536680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 20
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6589837dbe9042f4cb924e398393ddd1
+      internalID: -3437554282606117756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 10
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b4019bafd591f43831335d38bb5ae6
+      internalID: 1419298323624767657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 31
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6756caecbf0f66d498f456077ad379ca
+      internalID: -3989848791084101230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuel Station
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 15
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f17701b3b851543a19ea6dabbc8ced
+      internalID: -2676436399004780039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b3a88035513b76149bdf8412ee4308bf
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
